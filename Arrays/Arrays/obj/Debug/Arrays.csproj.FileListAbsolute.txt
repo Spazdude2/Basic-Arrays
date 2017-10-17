@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\Basic-Arrays\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\eahscs\Documents\GitHub\Basic-Arrays\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\eahscs\Documents\GitHub\Basic-Arrays\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\eahscs\Documents\GitHub\Basic-Arrays\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Basic-Arrays\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\eahscs\Documents\GitHub\Basic-Arrays\Arrays\Arrays\obj\Debug\Arrays.pdb
