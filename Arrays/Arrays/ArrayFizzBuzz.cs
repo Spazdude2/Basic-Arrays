@@ -15,15 +15,21 @@ namespace Arrays
 
             for (int i = 0; i <= FizzBuzz.Length; i++)
             {
-                if (num % 3 == 0 && num % 5 != 0)
+                if (num % 5 == 0 && num % 3 == 0)
+                {
+                    Console.Write("FizzBuzz. ");
+                }
+
+                else if (num % 3 == 0 && num % 5 != 0)
                 {
                     Console.Write("Fizz. ");
                 }
 
-                if (num % 5 == 0 && num % 3 != 0)
+                else if (num % 5 == 0 && num % 3 != 0)
                 {
-                    Console.Write("Buzz. ");
+                    Console.Write("FizzBuzz. ");
                 }
+
 
                 else
                 {
